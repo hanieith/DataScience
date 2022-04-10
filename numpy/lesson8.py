@@ -20,5 +20,5 @@ b.resize(2, 3)
 print(a + b)
 print(a * b)
 print(a - b)
-print( a+= 5) # update a
-print( a + 5) # coppy new array
+print(a += 5)  # update a
+print(a + 5)  # coppy new array
